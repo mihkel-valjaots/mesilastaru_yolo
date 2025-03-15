@@ -1,0 +1,9 @@
+name: mesilastaru_yolo
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - ultralytics
+  - pip
+  - pip:
+    - label-studio
