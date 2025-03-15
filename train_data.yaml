@@ -1,0 +1,9 @@
+path: mesilastaru_yolo
+train: train
+val: val
+test: test
+
+names:
+  0: bee_clean
+  1: bee_infected
+  2: maggot
