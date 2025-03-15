@@ -15,3 +15,12 @@ Execute the installer
 Create Python environment for mesilastaru_yolo project.
 
     mamba env create -f environment.yml
+
+## Running
+Activate Python environment
+
+    mamba activate mesilastaru_yolo
+
+Run model fitting
+
+    python varroa_detector.py
