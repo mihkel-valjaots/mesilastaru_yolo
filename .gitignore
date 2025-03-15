@@ -1,3 +1,6 @@
 datasets/mesilastaru_yolo/*/*.JPG
 datasets/mesilastaru_yolo/*/*.txt
+labeller_data
+runs
 *.cache
+*.pt
