@@ -24,3 +24,10 @@ Activate Python environment
 Run model fitting
 
     python varroa_detector.py
+
+## Run labeller
+Start Label Studio Docker container
+
+    ./run_labeller.sh
+
+Login to Label Studio on web browser: [Label Studio](http://0.0.0.0:8080/)
